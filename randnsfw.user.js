@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name       Reddit randnsfw button
+// @name       Reddit randnsfw
 // @version    0.1
 // @description  Add randnsfw button
 // @match      https://www.reddit.com/*
