@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name       Reddit Random Buttons
+// @name       Reddit Random Button
 // @version    0.1
 // @description  Add random buttons
 // @match      https://www.reddit.com/*
