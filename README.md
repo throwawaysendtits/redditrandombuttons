@@ -1,9 +1,7 @@
 # redditrandombuttons
 add random buttons to new reddit
 
-You will need to install tampermonkey for chrome (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) 
-
-or greasemonkey for firefox (https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+You will need to install tampermonkey or greasemonkey https://tampermonkey.net/ https://www.greasespot.net/
 
 If you would like both buttons:
 https://github.com/throwawaysendtits/redditrandombuttons/raw/master/both.user.js
